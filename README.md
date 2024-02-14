@@ -1,6 +1,8 @@
 # Welcome to Mansko09's GitHub! 👋
 
 Hey there! I'm @Mansko09, a passionate computer science enthusiast with a keen interest in cybersecurity and gaming. Currently, I'm pursuing my master's degree at ENSEA, focusing on signal processing and computer science.
+                
+  ![chill_lofi](https://github.com/Mansko09/Mansko09/assets/127218021/72635730-371a-4d39-9599-2b87a67a1ec8)
 
 ## About Me
 - 🔭 I’m currently exploring various aspects of computer engineering.
