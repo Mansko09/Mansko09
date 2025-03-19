@@ -1,14 +1,12 @@
 # Welcome to Mansko09's GitHub! 👋
 
-Hey there! I'm @Mansko09, a passionate computer science enthusiast with a keen interest in cybersecurity and gaming. Currently, I'm pursuing my master's degree at ENSEA, focusing on signal processing and computer science.
+Hey there! I'm @Mansko09, a passionate computer science enthusiast with a keen interest in embedded software and AI. Currently, I'm pursuing my master's degree at ENSEA, focusing on embedded software and electronics.
                 
   ![chill_lofi](https://github.com/Mansko09/Mansko09/assets/127218021/72635730-371a-4d39-9599-2b87a67a1ec8)
 
 ## About Me
 - 🔭 I’m currently exploring various aspects of computer engineering.
 - 🌱 I’m always eager to learn and grow in the field.
-- 👾 Gaming is not just a hobby for me, it's a passion! I love diving into new games and exploring their mechanics.
-- 💼 I'm open to collaboration opportunities, especially in game development projects.
 
 ## Get in Touch
 Feel free to reach out to me through email at mantoulaye.mbengue@ensea.fr. Whether you want to discuss a project, share ideas, or just say hi, I'm always up for a chat!
